@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+header {
+  height: 10%;
+}
+.container {
+  margin: 30px 55px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ul {
+  display: flex;
+  list-style-type: none;
+}
+li a {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
+  line-height: 1.2;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: #54524f;
+  text-decoration: none;
+  margin-right: 30px;
+}
